@@ -5,7 +5,6 @@ Nele, o computador escolhe um número aleatório e o jogador deve tentar adivinh
 
 A cada tentativa, o programa informa se o número digitado é maior ou menor do que o número pensado pelo computador. O jogador possui um número limitado de tentativas para acertar.
 
-=====
 
 ## Funcionamento
 - O computador sorteia um número aleatório
@@ -13,7 +12,6 @@ A cada tentativa, o programa informa se o número digitado é maior ou menor do 
 - O programa informa se o número correto é maior ou menor
 - O jogo termina quando o jogador acerta ou quando as tentativas acabam
 
-=====
 
 ## Conceitos utilizados
 - Estruturas condicionais
@@ -22,7 +20,6 @@ A cada tentativa, o programa informa se o número digitado é maior ou menor do 
 - Entrada e saída de dados
 - Lógica de programação
 
-=====
 
 ## Referência
 Este jogo foi desenvolvido com base no livro:
